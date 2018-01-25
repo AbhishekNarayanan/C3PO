@@ -1,0 +1,27 @@
+{
+  "name": "c3po",
+  "version": "1.0.0",
+  "description": "\"# C3PO\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AbhishekNarayanan/C3PO.git"
+  },
+  "author": "?ukasz Budnik <lukasz.budnik@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/AbhishekNarayanan/C3PO/issues"
+  },
+  "homepage": "https://github.com/AbhishekNarayanan/C3PO#readme",
+  "alexa": {
+    "applicationId": null
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "alexa-app": "^2.4.0",
+    "node-gcm": "^0.14.10"
+  }
+}
